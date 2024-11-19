@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Fort Zancudo Project** introduces an immersive and dynamic hacking and defense system for Fort Zancudo. This script includes interactive hacking mini-games, alarms, restricted airspace defense, and functional elevators, offering an engaging experience for players. **Requires ZRULX Duty systems** to work correctly.
+The **Fort Zancudo Project** introduces an immersive and dynamic hacking and defense system for Fort Zancudo. This script includes interactive hacking mini-games, alarms, restricted airspace defense, and functional elevators, offering an engaging experience for players. **Requires ZRULX Duty systems** to work correctly. *Contact me on Discord @ Xenty.dev For info on Zrulx Duty Systems*
 
 ## Features
 
